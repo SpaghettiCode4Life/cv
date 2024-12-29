@@ -48,11 +48,11 @@
         "headless-ui"
       ],
       "highlights": [
-        "Managed multiple projects: Simultaneously developed and maintained three financial technology applications, focusing on payment orchestration and dashboard solutions.",
-        "SDK development: Designed and maintained a secure, multi-repository SDK for payment forms. Brand integration with enhanced features through channel messaging in JavaScript",
-        "Backoffice application: Contributed extensively to a large-scale application for transaction management, implementing TypeScript, TDD, architectural refactors, comprehensive documentation, and integration with PCI compliance vulnerability tracking systems",
-        "Web architecture: Designed the architecture for a Next.js-based application with dynamic routing, ensuring alignment with WCAG accessibility standards and PCI compliance norms.",
-        "Cross-functional collaboration: Coordinated effectively with UX/UI teams, CORE API developers, and backend teams in a fast-paced environment to address complex financial challenges.",
+        "Managed multiple projects: Three financial technology applications, focusing on payment orchestration and dashboard solutions.",
+        "SDK development: Maintained a multi-repository SDK for payment forms. Enhanced features through channel messaging in JavaScript",
+        "Backoffice application: Contributed extensively to a large-scale application, implement TS, TDD, architectural refactors, documentation, and PCI compliance vulnerability tracking systems",
+        "Web architecture: Designed and developed the architecture for a Next.js SSG app with dynamic router, alignment with WCAG accessibility standards.",
+        "Cross-functional collaboration: with UX/UI teams, CORE API developers, and backend teams to address complex financial challenges.",
         "ADR documentation: Authored Architecture Decision Records (ADRs) for SDK and web applications to ensure transparency and maintainability.",
         "Accessibility & compliance: Led the alignment of projects to WCAG accessibility certification, ensuring inclusivity across platforms."
       ]
