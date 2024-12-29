@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Edith Cantegrit Alsinet",
-    "label": "Web Developer",
+    "label": "Software Engineer",
     "image": "/profile.jpg",
     "email": "eddith@proton.me",
     "phone": "+34671708373",
@@ -48,10 +48,13 @@
         "headless-ui"
       ],
       "highlights": [
-        "Complexity of financial dashboards to implement",
-        "Work on static web page on record time for a marketing campaign",
-        "Implement Typescript and test in the project",
-        "Create documentation and ADRs"
+        "Managed multiple projects: Simultaneously developed and maintained three financial technology applications, focusing on payment orchestration and dashboard solutions.",
+        "SDK development: Designed and maintained a secure, multi-repository SDK for payment forms. Brand integration with enhanced features through channel messaging in JavaScript",
+        "Backoffice application: Contributed extensively to a large-scale application for transaction management, implementing TypeScript, TDD, architectural refactors, comprehensive documentation, and integration with PCI compliance vulnerability tracking systems",
+        "Web architecture: Designed the architecture for a Next.js-based application with dynamic routing, ensuring alignment with WCAG accessibility standards and PCI compliance norms.",
+        "Cross-functional collaboration: Coordinated effectively with UX/UI teams, CORE API developers, and backend teams in a fast-paced environment to address complex financial challenges.",
+        "ADR documentation: Authored Architecture Decision Records (ADRs) for SDK and web applications to ensure transparency and maintainability.",
+        "Accessibility & compliance: Led the alignment of projects to WCAG accessibility certification, ensuring inclusivity across platforms."
       ]
     }, 
     {
@@ -72,7 +75,8 @@
         "GreenIt analysis"
       ],
       "highlights": [
-        "Turn the platform into a micro-services architecture",
+        "Refactors and improvements in the codebase",
+        "Fast-paced environment with daily/weekly releases, new features and components",
         "Work in personalization for industry theming",
         "Improve performance and implement accessibility"
       ]
@@ -97,6 +101,7 @@
       ],
       "highlights": [
         "Huge projects and complex architecture",
+        "Multiplicity of clients and projects",
         "Frontend and backend development",
         "Help sporadically in the PortAventura funnel tickets app",
         "Implementing a new proposal from scratch for PortAventura website",
@@ -157,7 +162,7 @@
     "name": "CodigoDemente organization",
     "startDate": "2023",
     "endDate": "2023",
-    "description": "Website and app side projects",
+    "description": "Sites and apps for personal clients",
     "highlights": [
       "PWA, Svelte"
     ],
